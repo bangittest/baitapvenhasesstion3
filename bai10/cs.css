@@ -1,0 +1,48 @@
+body{
+    border-spacing: 40px;
+    margin-bottom: 100px;
+    
+}
+.content{
+    display: flex;
+    /* justify-content: space-between; */
+    /* align-items: center; */
+}
+/* h1{
+    text-align: center;
+} */
+img{
+    width: 120px;
+    height: 90px;
+}
+.number{
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    margin-bottom: 30px;
+    font-size: 16px;
+    outline: none;
+
+        
+}
+
+
+.typple{
+    display: flex; 
+    gap: 0 50px;
+}
+
+.number:focus {
+    outline: 2px solid blue;
+}
+button{
+    background-color: rgb(49, 107, 255);
+        color: white;
+        border: none;
+        border-radius: 25px;
+        cursor: pointer;
+        font-size: 16px;
+        height: 50px;
+        width: 140px;    
+}
+

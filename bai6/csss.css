@@ -1,0 +1,50 @@
+/* Set the background color of the body */
+body {
+    background-color:white;
+    margin: 0;
+    
+  }
+  a{
+    font-size: 30px;
+    text-decoration: none;
+    
+  }
+  
+  /* Style the header */
+  h1{
+    background-color: #F2F2F2;
+    color: blue;
+    margin: 0;
+
+  }
+ .contain{
+    border-spacing: 40px;
+   background-color: aqua;
+   border-radius: 5px;
+    
+ }
+ tr{
+  background-color:rgb(216, 229, 241);
+  
+ }
+ button{
+  background-color: blanchedalmond;
+  border-radius: 5px;
+  border:0px;
+ }
+
+  
+  /* Style the footer */
+  footer {
+    background-color: #333;
+    color: white;
+    padding: 20px;
+    text-align: center;
+  }
+
+  td {
+    padding: 8px;
+    border-radius: 5px;
+  }
+
+  
